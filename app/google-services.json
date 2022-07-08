@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991378455325",
+    "firebase_url": "https://chat-app-a33a6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-app-a33a6",
+    "storage_bucket": "chat-app-a33a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991378455325:android:a14b83d52239ad4a28fff4",
+        "android_client_info": {
+          "package_name": "com.zoel.finalmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991378455325-5gqcgae5jb2lo9ldldurc6pkkt3rgk1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zoel.finalmobile",
+            "certificate_hash": "468160cc653af9f95c57fa2e0137cfa357c813fd"
+          }
+        },
+        {
+          "client_id": "991378455325-1furpgs908lnl7sln17lbpjn2ti4r7pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSLJF1v9p_gbeO0ZxokwMMtuwEuzRiwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991378455325-1furpgs908lnl7sln17lbpjn2ti4r7pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

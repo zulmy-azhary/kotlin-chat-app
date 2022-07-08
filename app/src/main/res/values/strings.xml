@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kelompok 2</string>
+    <string name="header_login">Connecting People Around The World</string>
+    <string name="input_name">Name</string>
+    <string name="input_email">Email Address</string>
+    <string name="input_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="register_now_for_free">Register Now For Free!</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+</resources>
